@@ -1,0 +1,30 @@
+[
+  {
+    "postedBy": "Chanchal",
+    "post": "React is the best.",
+    "comments": [
+      {
+        "commentBy": "Elon Musk",
+        "comment": "I agree.",
+        "children": []
+      },
+      {
+        "commentBy": "Rajiv",
+        "comment": "Angular is better",
+        "children": [
+          {
+            "commentBy": "Elon Musk",
+            "comment": "I dont agree.",
+            "children": [
+              {
+                "commentBy": "Elon Musk",
+                "comment": "As I say react is better",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
